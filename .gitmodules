@@ -1,0 +1,6 @@
+[submodule "libft_tester"]
+	path = libft_tester
+	url = git@github.com:kohkubo/libft_tester.git
+[submodule "libft_google_test"]
+	path = libft_google_test
+	url = git@github.com:kohkubo/libft_google_test.git
